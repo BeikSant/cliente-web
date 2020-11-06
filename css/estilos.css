@@ -1,0 +1,19 @@
+/*Selector por tipo*/
+h1{
+    color: #00B;
+}
+h2{
+    color: red;
+}
+h3{
+    color: #0B0;
+}
+/*Selector por clase*/
+.box{
+    background-color: pink;
+    color: #FFF;
+}
+.caja{
+    background-color: purple;
+    color: gray;
+}
