@@ -25,8 +25,7 @@ ul.fotos img{
     margin-bottom: 12px;
 }
 
-ul.fotos a::after{
-    content: attr(title);
+ul.fotos    content: attr(title);
 }
 
 ul.fotos li:nth-child(3n) a{
